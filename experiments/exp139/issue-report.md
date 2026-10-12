@@ -1,0 +1,4 @@
+# EXP-139 issue report
+https://github.com/ga84jog/laomedo-exp104-disposable-20261007/issues/7
+body_sha256: ed6f84ef29cc79e19336418e459406f596c5da0e82a2757ceac462953da03e75
+sha256:af6cf3265ce73e3f7bc2d4be02e2f42fe3e59f9b61b0c9c0df50070bb76867c0
